@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мій перший додаток</string>
+    <string name="action_search">Пошук</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="button_send">Надіслати</string>
+    <string name="edit_message">Введіть повідомлення</string>
+    <string name="hello_world">Привіт світ!</string>
+    <string name="title_activity_display_message">Моє повідомлення</string>
+</resources>
